@@ -166,3 +166,6 @@ daily_progress/*
 src/jupyter/*.md
 src/jupyter/daily_progress/*
 run/*
+/.idea/*
+/.idea/modules.xml
+/.gradio/certificate.pem

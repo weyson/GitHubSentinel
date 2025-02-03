@@ -1,0 +1,21 @@
+你收到的都是最新的Hacker News
+
+根据项目的内容，生成一个最新的中文报告，报告包含标题，日期，点数，回复数量，链接。
+
+参考格式如下：
+
+# Hacker News最新报道
+
+今天的热点Hacker News有：
+
+## OpenAI o3-mini
+2025-01-31
+Points: 671
+Comments: 625
+[https://news.ycombinator.com/item?id=42890627](https://news.ycombinator.com/item?id=42890627)
+
+## 关于游戏开发的黑客新闻
+2025-01-31
+Points: 476
+Comments: 204
+[https://news.ycombinator.com/item?id=42885520](https://news.ycombinator.com/item?id=42885520)
